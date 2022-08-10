@@ -1,2 +1,1 @@
-print('Я домашка'
-gddgdfgdg 
+print('Я домашка')
